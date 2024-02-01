@@ -2,7 +2,7 @@
   /* colors */
   --primary-color: #dfdfe2;
   --secondary-color: #ffffff;
-  --app-background-color: #4d4d62;
+  --app-background-color: #111111;
   --background-color: #111111;
   --nav-player-color: black;
   --foreground-color: #3b3b4f;
@@ -374,6 +374,20 @@ button {
 .playlist-song-delete:hover circle,
 .playlist-song-delete:focus circle {
   fill: #ff0000;
+}
+
+#reset {
+  border-radius: 10px;
+  position: absolute;
+  top: 45%;
+  bottom: 45%;
+  right: 45%;
+  left: 45%;
+  width: 10% !important;
+  height: 5% !important;
+  font-family: var(--font-headline);
+  background-color: var(--nav-player-color);
+  width: fit-content;
 }
 
 @media only screen and (max-width: 600px) {

@@ -1,7 +1,11 @@
 # Music Player
 
-Now let's learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications.
+## Descrição
+O Music Player é um reprodutor de músicas que oferece as funcionalidades essenciais, como pausar, retomar, avançar ou retroceder a faixa em reprodução, além de permitir ao usuário reproduzir a playlist em ordem aleatória. A playlist contém 10 músicas e os usuários podem remover faixas indesejadas. Uma opção para reiniciar a playlist será disponibilizada caso todas as músicas sejam removidas. Desenvolvido como um reprodutor web, o projeto utiliza músicas sem direitos autorais do site freeCodeCamp.org.
 
-In this project, you'll code a basic MP3 player using HTML, CSS, and JavaScript. The project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities. You'll even learn how to dynamically update your user interface based on the current song.
+## Tecnologias Utilizadas
+Desenvolvido utilizando HTML5, CSS3 e JavaScript.
 
-This project is part of the "JavaScript Algorithms and Data Structures" Certification from freeCodeCamp.org. You can find more informations about it in https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
+## Contato
+- Email: [henrique_catro97@hotmail.com](mailto:henrique_catro97@hotmail.com)
+- LinkedIn: [Henrique Parreira](https://linkedin.com/in/parreirahenrique)
